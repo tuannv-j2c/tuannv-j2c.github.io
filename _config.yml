@@ -1,0 +1,12 @@
+title: TinyTalk
+baseurl: ""
+url: "https://tuannv-j2c.github.io/"  # replace with your GitHub Pages URL
+
+markdown: kramdown
+highlighter: rouge
+
+# Tell Jekyll to process .md files in blog subdirectories
+# (by default it skips directories that don't start with _)
+include:
+  - tinytalk.me
+  # - blog2
