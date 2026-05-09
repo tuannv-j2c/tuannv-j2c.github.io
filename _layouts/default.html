@@ -4,10 +4,20 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} — {{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
 </head>
 <body>
-  <nav><a href="{{ site.baseurl }}/">{{ site.title }}</a></nav>
-  {{ content }}
+  <header class="site-header">
+    <a href="{{ site.baseurl }}/">
+      <img src="{{ site.baseurl }}/assets/blur.jpg" alt="{{ site.title }}">
+      <span class="site-title">{{ site.title }}</span>
+    </a>
+  </header>
+  <div class="site-content">
+    {{ content }}
+  </div>
 </body>
 </html>
