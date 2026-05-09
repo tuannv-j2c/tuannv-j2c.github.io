@@ -40,3 +40,9 @@ permalink: /
 | 2015-10-15 | [Nhảm bút 2](/tinytalk.me/khong-ten-2/) |
 | 2015-09-25 | [Nhảm bút 1](/tinytalk.me/khong-ten-1/) |
 | 2015-04-15 | [Thần thoại (Leyenda)](/tinytalk.me/than-thoai-leyenda/) |
+
+## notes
+
+| Date | Title |
+|------|-------|
+| 2026-05-10 | [Những bóng người bên ly bia](/notes/nhung-bong-nguoi-ben-ly-bia/) |

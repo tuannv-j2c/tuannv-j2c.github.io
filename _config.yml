@@ -9,6 +9,7 @@ highlighter: rouge
 # (by default it skips directories that don't start with _)
 include:
   - tinytalk.me
+  - notes
 
 exclude:
   - README.md
