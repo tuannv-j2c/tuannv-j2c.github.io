@@ -19,3 +19,6 @@ permalink: /
 | 2024-09-10 | [Ghi chép một ngày mưa…](/tinytalk.me/ghi-chep-mot-ngay-mua/) |
 | 2024-07-20 | [Một con người “đắc nhân tâm”](/tinytalk.me/mot-con-nguoi-dac-nhan-tam/) |
 | 2024-07-10 | [Học đểu, hành đểu, hay sách đểu!](/tinytalk.me/hoc-deu-hanh-deu-hay-sach-deu/) |
+| 2016-10-15 | [Recuerdos de la Bach Khoa](/tinytalk.me/recuerdos-de-la-bach-khoa/) |
+| 2015-09-25 | [Nhảm bút 1](/tinytalk.me/khong-ten-1/) |
+| 2015-04-15 | [Thần thoại (Leyenda)](/tinytalk.me/than-thoai-leyenda/) |
