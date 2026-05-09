@@ -1,6 +1,7 @@
 ---
-title: "Làm việc đa nhiệm (dành cho con người) | Kai"
+title: "Làm việc đa nhiệm (dành cho con người)"
 date: 2026-03-20
+layout: post
 blog: tinytalk.me
 slug: lam-viec-da-nhiem-danh-cho-con-nguoi
 permalink: /tinytalk.me/lam-viec-da-nhiem-danh-cho-con-nguoi/

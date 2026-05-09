@@ -1,6 +1,7 @@
 ---
-title: "Lại một câu chuyện nghe lỏm. | Kai"
+title: "Lại một câu chuyện nghe lỏm."
 date: 2026-04-05
+layout: post
 blog: tinytalk.me
 slug: lai-mot-cau-chuyen-nghe-lom
 permalink: /tinytalk.me/lai-mot-cau-chuyen-nghe-lom/
