@@ -1,6 +1,6 @@
 title: TinyTalk
 baseurl: ""
-url: "https://tuannv-j2c.github.io/"  # replace with your GitHub Pages URL
+url: "https://tuannv-j2c.github.io"
 
 markdown: kramdown
 highlighter: rouge
@@ -9,4 +9,6 @@ highlighter: rouge
 # (by default it skips directories that don't start with _)
 include:
   - tinytalk.me
-  # - blog2
+
+exclude:
+  - README.md
