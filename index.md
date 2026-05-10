@@ -46,3 +46,8 @@ permalink: /
 | Date | Title |
 |------|-------|
 | 2026-05-10 | [Những bóng người bên ly bia](/notes/nhung-bong-nguoi-ben-ly-bia/) |
+| 2026-03-30 | [Học tiếng Trung để làm gì?](/notes/hoc-tieng-trung-de-lam-gi/) |
+| 2021-05-05 | [Học đàn để làm gì?](/notes/hoc-dan-de-lam-gi/) |
+| 2021-03-15 | [Những mảnh đời trôi dạt](/notes/nhung-manh-doi-troi-dat/) |
+| 2020-12-25 | ['Một người cha "mất dạy"'](/notes/mot-nguoi-cha-mat-day/) |
+| 2020-08-15 | [Sách gỉ sách gi sách gì đấy ạ!?](/notes/sach-gi-sach-gi-sach-gi-day-a/) |
