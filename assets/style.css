@@ -70,7 +70,7 @@ table {
 }
 
 th, td {
-    border: 1px dashed #aaa;
+    border: 1px dotted #aaa;
     padding: 0.4rem 0.8rem;
     text-align: left;
 }
